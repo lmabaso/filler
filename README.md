@@ -1,4 +1,4 @@
-<img width="626" alt="screen shot 2018-09-12 at 09 53 09" src="https://user-images.githubusercontent.com/36439765/45411294-294a5900-b674-11e8-901b-9bed525225d0.png">
+#Filler
 
 Filler is a game where two bots are made to compete for space on a map. The bot that places the most tokens wins. 
 
