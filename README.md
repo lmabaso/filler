@@ -4,7 +4,8 @@ Filler is a game where two bots are made to compete for space on a map. The bot 
 
 The filler game is run with the filler_vm and maps that are given to us with the project resources. 
 Below is an example of how the vm gives us the map and token. So the bot must read the map and piece from standard input and print out the only the coordinates of where the
-x0 -y0 point will be on the map. 
+x0 -y0 point will be on the map.
+
 <img width="513" alt="screen shot 2018-09-12 at 09 47 39" src="https://user-images.githubusercontent.com/36439765/45411313-336c5780-b674-11e8-85b3-681caf1d2d1d.png">
 
 For the assessment our bot is put up against the given bots and must win out of 5 rounds on the 3 different size maps.
